@@ -1,4 +1,4 @@
-# IEEE 754-2008 HALF-FLOAT LIBRARY FOR INTEL 8080/8085 CPU
+# IEEE 754-2008 HALF-FLOAT FOR INTEL 8080/8085 CPU
 
 * FP16 FORMAT:
   - SEEEEEMM:MMMMMMMM
@@ -34,3 +34,17 @@
   - A2F16  - A=0..10 -> FP16
 
 *AVERAGE CPU CYCLES
+
+# https://github.com/begoon/i8080-core/
+
+* i8080_test.c run output
+
+<pre>
+File "fp16.com" loaded, size 857
+4249 3.142
+4170 2.719
+4480 4.5
+67B7 1975
+CPU cycles = 41509
+HLT at 0442
+</pre>
