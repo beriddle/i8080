@@ -33,13 +33,12 @@
 *AVERAGE CPU CYCLES
 
 # Compile / Download
-* https://beriddle.github.io/pretty-8080-assembler/
+https://beriddle.github.io/pretty-8080-assembler/
 
 # Run
-* https://github.com/begoon/i8080-core/
+https://github.com/begoon/i8080-core/
 
-* i8080_test.c run output
-
+i8080_test.c run output
 <pre>
 File "fp16.com" loaded, size 857
 4249 3.142
