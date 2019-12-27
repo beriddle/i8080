@@ -32,7 +32,11 @@
 
 *AVERAGE CPU CYCLES
 
-# https://github.com/begoon/i8080-core/
+# Compile / Download
+* https://beriddle.github.io/pretty-8080-assembler/
+
+# Run
+* https://github.com/begoon/i8080-core/
 
 * i8080_test.c run output
 
