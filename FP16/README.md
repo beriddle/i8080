@@ -40,11 +40,15 @@ https://github.com/begoon/i8080-core/
 
 i8080_test.c run output
 <pre>
-File "fp16.com" loaded, size 857
-4249 3.142
+File "fp16.com" loaded, size 919
+4248 3.140625
 4170 2.719
-4480 4.5
+5150 42.5
 67B7 1975
-CPU cycles = 41509
-HLT at 0442
+0400 0.000061
+3BFF 0.9995
+3C01 1.000976
+3555 0.33325
+CPU cycles = 92777
+HLT at 047F
 </pre>
